@@ -5,6 +5,7 @@ Adds Solr search to Spree using [Sunspot](https://github.com/sunspot/sunspot). T
 
 This is compatible with Spree 1.1. Untested on 1.0, but will probably work without too much modification
 
+UPDATE: Tested to be working with Spree 1.2.0.
 
 Install
 =======
